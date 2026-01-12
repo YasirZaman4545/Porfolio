@@ -127,7 +127,7 @@ export const Hero = () => {
                 className="relative w-72 h-72 md:w-96 md:h-96 rounded-full overflow-hidden border-4 border-primary/20 glow"
               >
                 <img
-                  src="../../public/hero.jpeg"
+                  src="/hero.jpeg"
                   alt="Yasir Zaman"
                   className="w-full h-full object-cover"
                 />
